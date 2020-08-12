@@ -1,0 +1,19 @@
+{
+  "header": {
+    "action": "get"
+  },
+  "body": {
+    "carList": [
+      {
+        "company": "Honda",
+        "model": "civic",
+        "year": 2015
+      },
+      {
+        "company": "Mazda",
+        "model": "cx5",
+        "year": 2016
+      }
+    ]
+  }
+}

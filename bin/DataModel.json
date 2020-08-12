@@ -1,0 +1,86 @@
+[
+  {
+    "company": "Volvo",
+    "model": "s60",
+    "year": 2017,
+    "price": 35900
+  },
+  {
+    "company": "Jeep",
+    "model": "rubicon",
+    "year": 2013,
+    "price": 70000
+  },
+  {
+    "company": "Nisan",
+    "model": "maicra",
+    "year": 2018,
+    "price": 20000
+  },
+  {
+    "company": "Suzuki",
+    "model": "swift",
+    "year": 2018,
+    "price": 24700
+  },
+  {
+    "company": "Hundai",
+    "model": "iconic",
+    "year": 2018,
+    "price": 47000
+  },
+  {
+    "company": "Fiat",
+    "model": "panda",
+    "year": 2012,
+    "price": 7000
+  },
+  {
+    "company": "Citroen",
+    "model": "c5",
+    "year": 2018,
+    "price": 44000
+  },
+  {
+    "company": "Chevrolet",
+    "model": "cruz",
+    "year": 2016,
+    "price": 26000
+  },
+  {
+    "company": "Mazda\t",
+    "model": "cx3",
+    "year": 2015,
+    "price": 43800
+  },
+  {
+    "company": "Toyota",
+    "model": "runx",
+    "year": 2010,
+    "price": 13400
+  },
+  {
+    "company": "Mercedes",
+    "model": "e63",
+    "year": 2016,
+    "price": 64700
+  },
+  {
+    "company": "Nisan",
+    "model": "juke",
+    "year": 2015,
+    "price": 28700
+  },
+  {
+    "company": "Citroen",
+    "model": "c5",
+    "year": 2018,
+    "price": 44000
+  },
+  {
+    "company": "Mazda",
+    "model": "6 comfort",
+    "year": 2015,
+    "price": 36000
+  }
+]
